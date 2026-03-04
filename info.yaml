@@ -4,7 +4,7 @@ project:
   title:        "Tiny tapeout proj"      # Project title
   author:       "Hugo Sharpe"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "blinks"      # One line description of what your project does
+  description:  "y when pin is correct"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
