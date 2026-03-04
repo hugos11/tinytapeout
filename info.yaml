@@ -36,14 +36,14 @@ pinout:
   uo[7]: "nothing"
 
   # Bidirectional pins
-  uio[0]: ""
-  uio[1]: ""
-  uio[2]: ""
-  uio[3]: ""
-  uio[4]: ""
-  uio[5]: ""
-  uio[6]: ""
-  uio[7]: ""
+  uio[0]: "no"
+  uio[1]: "no"
+  uio[2]: "no"
+  uio[3]: "no"
+  uio[4]: "no"
+  uio[5]: "no"
+  uio[6]: "no"
+  uio[7]: "no"
 
 # Do not change!
 yaml_version: 6
