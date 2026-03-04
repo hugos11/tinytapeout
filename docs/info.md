@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Input to light up display with 'y' when correct pincode inputted.
 
 ## How to test
 
-test
+only when 3,7,8 are enabled to '1' with all other pins '0' should y light up. In all other cases display should be blank
 
 ## External hardware
 
